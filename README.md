@@ -1,3 +1,3 @@
 # Desenvolvimento_de_Sistemas
-Ian Magnani
+Ian Magnani  
 Lucas Leal
